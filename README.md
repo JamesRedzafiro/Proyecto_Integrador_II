@@ -50,7 +50,7 @@ Detalle completo de flujos en la sección 4.d de este documento.
 ## Instalación
 
 \`\`\`bash
-git clone https://github.com/tu-org/NovaBank_app.git
+git clone [github.com/JamesRedzafiro/Proyecto_Integrador_II](https://github.com/JamesRedzafiro/Proyecto_Integrador_II)
 cd NovaBank_app
 npm install
 cp .env.example .env
